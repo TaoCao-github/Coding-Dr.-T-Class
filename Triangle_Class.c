@@ -1,4 +1,6 @@
-//this program demonstrates a simple class
+//11-11-2020
+// Dr.Tyson MacMillan Class_ Tarrant County College
+// this program demonstrates a simple class
 #include <iostream>
 using namespace std;
 
