@@ -1,3 +1,8 @@
+//11-19-2020
+//Dr. Tyson McMillan Class _ Tarrant County College
+//Create a Football Scoreboard
+//How to create class in C++
+
 #include <iostream>
 #include <string> 
 //#include <unistd.h>
