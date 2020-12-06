@@ -1,6 +1,6 @@
-//Dr_T Unit 2 COSC-1437 Starter 
+//Dr_Tyson MacMillan Unit 2 COSC-1437 Starter 
 /* Task -
-
+//11-04-2020
 Top level solution folder: C_STL_Library_YourLastName
 
 create a single main.cpp that contains code samples and implementations of each of the following topics */
